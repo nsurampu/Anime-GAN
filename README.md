@@ -12,4 +12,4 @@ Generator image after 300 iterations
 ![Iters300](https://github.com/nsurampu/Anime-GAN/blob/master/STEP200.png)
 
 <br>
-The results will become better as the GAN is passed through more iterations. The database for the GAN can be found ![here](https://drive.google.com/drive/u/0/folders/1Rq6HZzc3oUUcBOmJpooVtuFdfwddC-D_).
+The results will become better as the GAN is passed through more iterations. The database for the GAN can be found ![here](https://drive.google.com/drive/u/0/folders/1Rq6HZzc3oUUcBOmJpooVtuFdfwddC-D_)
