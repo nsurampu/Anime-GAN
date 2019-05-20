@@ -7,7 +7,7 @@ The current implementation makes use of a Deep Convolution GAN (DCGAN) to learn 
 Initial generator image:
 ![Iters0](https://github.com/nsurampu/Anime-GAN/blob/master/STEP0.png)
 
-<br>
+
 Generator image after 300 iterations
 ![Iters300](https://github.com/nsurampu/Anime-GAN/blob/master/STEP200.png)
 
